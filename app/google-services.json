@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11022862531",
+    "project_id": "balish-chat",
+    "storage_bucket": "balish-chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11022862531:android:4255db0ab2333cf24dfa76",
+        "android_client_info": {
+          "package_name": "com.example.balishchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCDAqxT3AUcsGZ3tfn-0AqUhekmF7dFWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
