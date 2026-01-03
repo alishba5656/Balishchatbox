@@ -57,14 +57,22 @@ Firebase Realtime Database / Firestore is used to store and retrieve chat messag
 Feature 3: State Preservation
 Android lifecycle methods and Firebase session handling are used to preserve app state during screen rotation, background execution, and app restarts. User login state and chat history are restored automatically to ensure smooth user experience.
 
-<img width="360" height="759" alt="image" src="https://github.com/user-attachments/assets/18c67166-1b7d-47f3-b718-845ee7123903" />
-<img width="400" height="815" alt="image" src="https://github.com/user-attachments/assets/2b31f1a4-c650-426b-bdf5-6d053cd99403" />
-<img width="356" height="754" alt="image" src="https://github.com/user-attachments/assets/e124da99-d173-4474-a774-b0ca3b81d8c7" />
-<img width="359" height="760" alt="image" src="https://github.com/user-attachments/assets/7a2ff247-fb2e-4eba-ab63-c89e5680171d" />
-<img width="358" height="764" alt="image" src="https://github.com/user-attachments/assets/5bb06a59-0245-426d-b451-01f29d210b42" />
-<img width="365" height="763" alt="image" src="https://github.com/user-attachments/assets/ad3ce3c4-909f-4af0-bc01-eaadb2191dc1" />
-<img width="364" height="771" alt="image" src="https://github.com/user-attachments/assets/4732db18-4644-44b7-9602-d3cfc2e67145" />
-<img width="390" height="860" alt="image" src="https://github.com/user-attachments/assets/86ff46bb-72bc-4ecf-b4fe-ebb70f53ec7f" />
+
+
+PROJECT PCTURES:
+
+<img width="360" height="759" alt="image" src="https://github.com/user-attachments/assets/aad28356-b173-423d-b850-bda3b005173d" />
+<img width="400" height="815" alt="image" src="https://github.com/user-attachments/assets/e02e66e9-b0d9-4c7e-bf66-3c535eb1a65b" />
+<img width="356" height="754" alt="image" src="https://github.com/user-attachments/assets/ffebdd7c-3fde-4735-98b5-4e6d333de454" />
+<img width="359" height="760" alt="image" src="https://github.com/user-attachments/assets/f94a1c64-583d-4dbd-a737-4af34bf58b3c" />
+<img width="365" height="763" alt="image" src="https://github.com/user-attachments/assets/21597aee-1722-4cd0-9d4e-059d9a20b3eb" />
+<img width="364" height="771" alt="image" src="https://github.com/user-attachments/assets/bdaba4ed-f1e7-4b19-85ec-cb7f9811e925" />
+<img width="390" height="860" alt="image" src="https://github.com/user-attachments/assets/6bb965ca-c0b2-4c0c-891f-b6ff2c2064e4" />
+
+
+
+
+
 
 
 
