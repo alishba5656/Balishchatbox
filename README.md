@@ -66,7 +66,6 @@ PROJECT PCTURES:
 <img width="356" height="754" alt="image" src="https://github.com/user-attachments/assets/ffebdd7c-3fde-4735-98b5-4e6d333de454" />
 <img width="359" height="760" alt="image" src="https://github.com/user-attachments/assets/f94a1c64-583d-4dbd-a737-4af34bf58b3c" />
 <img width="365" height="763" alt="image" src="https://github.com/user-attachments/assets/21597aee-1722-4cd0-9d4e-059d9a20b3eb" />
-<img width="364" height="771" alt="image" src="https://github.com/user-attachments/assets/bdaba4ed-f1e7-4b19-85ec-cb7f9811e925" />
 <img width="390" height="860" alt="image" src="https://github.com/user-attachments/assets/6bb965ca-c0b2-4c0c-891f-b6ff2c2064e4" />
 
 
